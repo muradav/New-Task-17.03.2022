@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\bin\Debug\netcoreapp3.1\Homework.Class.17.03.2022.exe
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\bin\Debug\netcoreapp3.1\Homework.Class.17.03.2022.deps.json
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\bin\Debug\netcoreapp3.1\Homework.Class.17.03.2022.runtimeconfig.json
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\bin\Debug\netcoreapp3.1\Homework.Class.17.03.2022.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\bin\Debug\netcoreapp3.1\Homework.Class.17.03.2022.dll
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\bin\Debug\netcoreapp3.1\Homework.Class.17.03.2022.pdb
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\obj\Debug\netcoreapp3.1\Homework.Class.17.03.2022.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\obj\Debug\netcoreapp3.1\Homework.Class.17.03.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\obj\Debug\netcoreapp3.1\Homework.Class.17.03.2022.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\obj\Debug\netcoreapp3.1\Homework.Class.17.03.2022.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\obj\Debug\netcoreapp3.1\Homework.Class.17.03.2022.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\obj\Debug\netcoreapp3.1\Homework.Class.17.03.2022.dll
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\obj\Debug\netcoreapp3.1\Homework.Class.17.03.2022.pdb
+C:\Users\HP\Desktop\Development\New-Task-17.03.2022\Homework.Class.17.03.2022\Homework.Class.17.03.2022\obj\Debug\netcoreapp3.1\Homework.Class.17.03.2022.genruntimeconfig.cache
