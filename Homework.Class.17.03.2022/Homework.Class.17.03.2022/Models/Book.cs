@@ -21,5 +21,13 @@ namespace Homework.Class._17._03._2022.Models
                 $"Price: {Price} \n" +
                 $"Count: {Count}");
         }
+
+        public void Filter(double minprice, double maxprice)
+        {
+            if (Price >= minprice && Price <= maxprice)
+            {
+                GetInfo();
+            }
+        }
     }
 }

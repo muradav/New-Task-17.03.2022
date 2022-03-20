@@ -22,10 +22,10 @@ namespace Homework.Class._17._03._2022
                 string name = GetInputString("Please enter the Name: ", 1, 100);
 
 
-                string genre = GetInputString("Please enter the size of Genre: ", 1, 10000);
+                string genre = GetInputString("Please enter the Genre: ", 1, 10000);
 
 
-                double price = GetInputDouble("Please enter the size of Price: ", 1, 1000);
+                double price = GetInputDouble("Please enter the Price: ", 1, 10000);
 
                                 
                 int count = GetInputInt("Please enter the Count: ", 1, 100);
@@ -43,13 +43,7 @@ namespace Homework.Class._17._03._2022
 
             }
             Console.Clear();
-            //Console.WriteLine("List of Books: ");
-            //foreach (var item in books)
-            //{
-
-            //    item.GetInfo();
-            //    Console.WriteLine(" ");
-            //}
+            
 
 
             int input;
@@ -57,23 +51,31 @@ namespace Homework.Class._17._03._2022
             {
                 Console.WriteLine("Press 1 for Sort books by price");
                 Console.WriteLine("Press 2 for show all books");
-                Console.WriteLine("Press 3 for close the program");
+                Console.WriteLine("Press 0 for close the program");
+
 
                 input = int.Parse(Console.ReadLine());
+                Console.Clear();
 
                 switch (input)
                 {
                     case 1:
 
-                        //Array.Sort(books);
+                        double minprice = GetInputDouble("Please enter the Min Price: ", 1, 1000);
+                        double maxprice = GetInputDouble("Please enter the Max Price: ", 1, 1000);
 
-                        //foreach (var item in books)
-                        //{
 
-                        //    item.GetInfo();
-                        //    Console.WriteLine(" ");
-                        //}
+                        
+
+                        foreach (var item in books)
+                        {
+                            item.Filter(minprice, maxprice);
+                        }
                         break;
+
+                        
+
+                        
 
                     case 2:
 
